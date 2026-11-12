@@ -4,7 +4,6 @@ FAILED https://cdn.jsdelivr.net/gh/google-com-classroom/424@main/TemplateData/st
 
 FAILED https://cdn.jsdelivr.net/gh/google-com-classroom/424@main/logo.png: curl: (22) The requested URL returned error: 404
 
-EMU OK a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76 cores=genesis_plus_gx,mednafen_psx
 FAILED https://cdn.jsdelivr.net/gh/supaub/interstellar-3@8a13c735e7df6d86602b354e45c090405f21f45a/play/flash/swf/redball4.swf: curl: (22) The requested URL returned error: 404
 
 FAILED https://cdn.jsdelivr.net/gh/supaub/interstellar-3@8a13c735e7df6d86602b354e45c090405f21f45a/play/flash/swf/redtierunner.swf: curl: (22) The requested URL returned error: 404
@@ -13,3 +12,4 @@ FAILED https://cdn.jsdelivr.net/gh/supaub/interstellar-3@8a13c735e7df6d86602b354
 
 FAILED https://cdn.jsdelivr.net/gh/supaub/interstellar-3@8a13c735e7df6d86602b354e45c090405f21f45a/play/flash/swf/rooftopsnipers2.swf: curl: (22) The requested URL returned error: 404
 
+RUFFLE FAIL module 'urllib' has no attribute 'request'
