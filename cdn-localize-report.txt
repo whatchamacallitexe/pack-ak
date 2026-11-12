@@ -1,0 +1,32 @@
+FILE race-master-3d: https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/ytgame.js -> assets/cdn/20058cc1-ytgame.js
+FAILED https://cdn.jsdelivr.net/gh/google-com-classroom/424@main/TemplateData/favicon.ico: curl: (22) The requested URL returned error: 404
+
+FAILED https://cdn.jsdelivr.net/gh/google-com-classroom/424@main/TemplateData/style.css: curl: (22) The requested URL returned error: 404
+
+FAILED https://cdn.jsdelivr.net/gh/google-com-classroom/424@main/logo.png: curl: (22) The requested URL returned error: 404
+
+FILE rainbow-six: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE rayman: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@01b571b5914da40fab49b14349e37cdfc1551b36/Rayman%20(World).zip -> assets/cdn/62cf21d2-Rayman_World_.zip
+FILE rayman: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE reach-the-core: https://cdn.jsdelivr.net/gh/7DatsonBack/3kh0-Assets@60f2f97b00ffe9566ee06c82ecaf67255931118b/Run%202/waflash/waflash-style.css -> assets/cdn/f8a73723-waflash-style.css
+FILE reach-the-core: https://cdn.jsdelivr.net/gh/jackilyna/reshade@8909216e53040b9b8facf8fe7a58d202a0dcd628/res/core.swf -> assets/cdn/945e5858-core.swf
+FILE reach-the-core: https://cdn.jsdelivr.net/gh/zhit73/wafedit@183cb00916e4d250ae5bc9813864f9a70cb9986b/wasm/waflash-player.min.js -> assets/cdn/aed266bb-waflash-player.min.js
+FILE recoil: https://cdn.jsdelivr.net/gh/bubbls/ruffle@392483d4b2cf5cca5e95b4c3aa1cc4e2f10c548f/fancade.css -> assets/cdn/1a764885-fancade.css
+FILE recoil: https://cdn.jsdelivr.net/gh/bubbls/ruffle@392483d4b2cf5cca5e95b4c3aa1cc4e2f10c548f/minmin.js -> assets/cdn/a55d796a-minmin.js
+FILE recoil: https://cdn.jsdelivr.net/gh/bubbls/ruffle@392483d4b2cf5cca5e95b4c3aa1cc4e2f10c548f/source.js -> assets/cdn/2bf1d7f1-source.js
+FILE red-ball-4: https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@latest/ruffle.min.js -> ../_shared/c1d3da7c1734-ruffle.min.js
+FAILED https://cdn.jsdelivr.net/gh/supaub/interstellar-3@8a13c735e7df6d86602b354e45c090405f21f45a/play/flash/swf/redball4.swf: curl: (22) The requested URL returned error: 404
+
+FILE red-tie-runner: https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@latest/ruffle.min.js -> ../_shared/c1d3da7c1734-ruffle.min.js
+FAILED https://cdn.jsdelivr.net/gh/supaub/interstellar-3@8a13c735e7df6d86602b354e45c090405f21f45a/play/flash/swf/redtierunner.swf: curl: (22) The requested URL returned error: 404
+
+FILE rooftop-snipers: https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@latest/ruffle.min.js -> ../_shared/c1d3da7c1734-ruffle.min.js
+FAILED https://cdn.jsdelivr.net/gh/supaub/interstellar-3@8a13c735e7df6d86602b354e45c090405f21f45a/play/flash/swf/rooftopsnipers.swf: curl: (22) The requested URL returned error: 404
+
+FILE rooftop-snipers-2: https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@latest/ruffle.min.js -> ../_shared/c1d3da7c1734-ruffle.min.js
+FAILED https://cdn.jsdelivr.net/gh/supaub/interstellar-3@8a13c735e7df6d86602b354e45c090405f21f45a/play/flash/swf/rooftopsnipers2.swf: curl: (22) The requested URL returned error: 404
+
+FILE run-3: https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@latest/ruffle.min.js -> ../_shared/c1d3da7c1734-ruffle.min.js
+FILE run-3: https://cdn.jsdelivr.net/gh/VinMannie/Run_3@gh-pages/Run3.js -> assets/cdn/d55d22f0-Run3.js
+FILE sonic-score-rush: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@3a8d02492341a69885547eedb096b15febd3d6fd/Sonic%201%20-%20Score%20Rush%20(REV02A).bin -> assets/cdn/01aa540c-Sonic_1_-_Score_Rush_REV02A_.bin
+FILE sonic-score-rush: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
